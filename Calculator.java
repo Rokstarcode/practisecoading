@@ -9,7 +9,7 @@ public class Calculator {
         
 }
 	/*public int s2(int t1,int c) {
-		t2=(t1-c);
+		t2=(t1+c);
 		return t2;
 		
 	}
